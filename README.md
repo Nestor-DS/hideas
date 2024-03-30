@@ -1,4 +1,4 @@
-# hideas
+# Ideas
 
 Aquí está el ranking de complejidad de creación de las ideas de proyectos que proporcioné, con una puntuación del 1 al 10, donde 1 es fácil y 10 es difícil:
 
@@ -17,5 +17,3 @@ Aquí está el ranking de complejidad de creación de las ideas de proyectos que
 4. **Plataforma de Colaboración de Desarrolladores**
    - Complejidad: 7
    - Descripción: Una plataforma donde los desarrolladores pueden conectar y colaborar en proyectos conjuntos. Esta idea implica la implementación de funcionalidades complejas como la gestión de proyectos, interacción social, votación de proyectos y configuración de privacidad, lo que aumenta su complejidad.
-
-Recuerda que estas puntuaciones son subjetivas y pueden variar dependiendo de la experiencia y recursos disponibles del equipo de desarrollo.
