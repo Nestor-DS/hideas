@@ -53,3 +53,32 @@ La creación de esta plataforma implicaría un desarrollo de mediana a alta comp
 
 **Arquitectura:**
 La arquitectura podría seguir un modelo de cliente-servidor, con una aplicación web frontend que se comunique con un backend para la gestión de usuarios, proyectos y la lógica de negocio. Se podría optar por una arquitectura de microservicios para escalabilidad y mantenibilidad a largo plazo.
+
+______________________________________________________
+
+Demo, principales funcionalidades:
+
+1. **Registro de usuarios y creación de perfiles:** Los usuarios deberían poder registrarse, crear perfiles y establecer sus habilidades e intereses. Esto incluye la autenticación, validación de datos y almacenamiento de perfiles.
+   - Complejidad: 5/10
+
+2. **Publicación de proyectos:** Los usuarios deben poder publicar detalles sobre sus ideas de proyectos, incluyendo descripción, categoría, requisitos de colaboración, etc.
+   - Complejidad: 4/10
+
+3. **Búsqueda y filtrado de proyectos:** Implementar un sistema de búsqueda que permita a los usuarios encontrar proyectos por categoría, palabras clave, habilidades requeridas, etc.
+   - Complejidad: 5/10
+
+4. **Visualización de detalles del proyecto:** Permitir a los usuarios ver detalles completos de un proyecto, incluyendo descripción, requisitos, estado de desarrollo, etc.
+   - Complejidad: 3/10
+
+5. **Interacción entre usuarios:** Implementar un sistema de mensajería básico que permita a los usuarios comunicarse entre sí para discutir detalles del proyecto y coordinar la colaboración.
+   - Complejidad: 6/10
+
+6. **Funcionalidad de donaciones:** Permitir a los usuarios hacer donaciones a proyectos que les interesen.
+   - Complejidad: 5/10
+
+7. **Gestión de la seguridad y privacidad:** Implementar medidas de seguridad para proteger los datos de los usuarios y prevenir posibles vulnerabilidades.
+   - Complejidad: 7/10
+
+8. **Diseño de interfaz de usuario:** Desarrollar una interfaz de usuario intuitiva y atractiva que facilite la navegación y el uso de la plataforma.
+   - Complejidad: 6/10
+
